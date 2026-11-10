@@ -4,3 +4,4 @@
 
 - [01. 눈에는 눈](pages/01-eye-for-eye.md)
 - [02. 각자 만든 눈금](pages/02-two-scales.md)
+- [03. 1953년, 눈금을 만들다](pages/03-1953-criminal-act.md)
